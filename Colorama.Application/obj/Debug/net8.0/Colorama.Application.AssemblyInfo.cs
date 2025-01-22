@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Colorama.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28d52c9d516294af522660785d2a3ce6fb8af2bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67da13e4dd725761ebb60b7bf3ad5e1234a07b66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Colorama.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Colorama.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

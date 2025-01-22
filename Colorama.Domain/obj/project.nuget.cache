@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lhqg9LtGLIY=",
+  "dgSpecHash": "96ldtTWFOuU=",
   "success": true,
   "projectFilePath": "C:\\Users\\intel\\RiderProjects\\Colorama.api\\Colorama.Domain\\Colorama.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\intel\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
   "logs": []
 }
