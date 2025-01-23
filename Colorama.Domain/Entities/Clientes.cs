@@ -1,8 +1,8 @@
-﻿using Colorama.Infra.Entities;
+﻿using Colorama.Domain.Contracts.Interfaces;
 
 namespace Colorama.Domain.Entities;
 
-public class Clientes : Entity
+public class Clientes : Entity, IAggregateRoot
 {
     public string Nome { get; set; } = null!;
     public int Cpf { get; set; }
@@ -15,8 +15,5 @@ public class Clientes : Entity
     public string Cep { get; set; } = null!;
     public string Cidade { get; set; } = null!;
     public string Estado { get; set; } = null!;
-    
-    public string? TokenDeResetSenha { get; set; }
-    public DateTime? ExpiraResetToken { get; set; }
     
 }

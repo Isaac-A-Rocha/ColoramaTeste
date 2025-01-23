@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/leandro_bezerra/colorama/Colorama.api/Colorama.api.csproj": {}
+    "C:\\Users\\intel\\RiderProjects\\Colorama.api\\Colorama.api\\Colorama.api.csproj": {}
   },
   "projects": {
-    "/home/leandro_bezerra/colorama/Colorama.api/Colorama.api.csproj": {
+    "C:\\Users\\intel\\RiderProjects\\Colorama.api\\Colorama.api\\Colorama.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leandro_bezerra/colorama/Colorama.api/Colorama.api.csproj",
+        "projectUniqueName": "C:\\Users\\intel\\RiderProjects\\Colorama.api\\Colorama.api\\Colorama.api.csproj",
         "projectName": "Colorama.api",
-        "projectPath": "/home/leandro_bezerra/colorama/Colorama.api/Colorama.api.csproj",
-        "packagesPath": "/home/leandro_bezerra/.nuget/packages/",
-        "outputPath": "/home/leandro_bezerra/colorama/Colorama.api/obj/",
+        "projectPath": "C:\\Users\\intel\\RiderProjects\\Colorama.api\\Colorama.api\\Colorama.api.csproj",
+        "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\intel\\RiderProjects\\Colorama.api\\Colorama.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/leandro_bezerra/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -63,20 +63,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.12, 8.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.12, 8.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -85,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

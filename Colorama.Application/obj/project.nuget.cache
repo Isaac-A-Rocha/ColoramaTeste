@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t/5WqL9/X0c=",
+  "dgSpecHash": "ZohYnpWY7V0=",
   "success": true,
-  "projectFilePath": "/home/leandro_bezerra/colorama/Colorama.Application/Colorama.Application.csproj",
-  "expectedPackageFiles": [
-    "/home/leandro_bezerra/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
-    "/home/leandro_bezerra/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\intel\\RiderProjects\\Colorama.api\\Colorama.Application\\Colorama.Application.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
