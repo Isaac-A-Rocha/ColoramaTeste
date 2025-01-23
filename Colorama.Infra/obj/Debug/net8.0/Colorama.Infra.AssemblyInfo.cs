@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Colorama.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67da13e4dd725761ebb60b7bf3ad5e1234a07b66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6c8263b5a0245194edaea4cdfa9bedd60752138")]
 [assembly: System.Reflection.AssemblyProductAttribute("Colorama.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Colorama.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
