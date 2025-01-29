@@ -12,4 +12,3 @@ public class Produtos : Entity, IAggregateRoot
     public string Fabricante { get; set; } = null!;
     public int CodigoProduto { get; set; } = null!;
     public DateOnly? DataDeValidade { get; set; }
-}
